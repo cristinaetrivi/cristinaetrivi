@@ -1,5 +1,9 @@
-### Hi there 👋
+<body >
+ ### Hi there 👋
 
+<p align="center">
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clailj1hk01110gl7wz4oh8bz/stats?cursusId=21&coalitionId=274" alt="ctrivino's 42 stats" /></a></p>
+</body>
 <!--
 **cristinaetrivi/cristinaetrivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
