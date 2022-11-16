@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cris</h1>
 <h3 align="center">A passionate learner in 42 School</h3>
 
-<p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clailj1hk01110gl7wz4oh8bz/stats?cursusId=21&coalitionId=274" alt="ctrivino's 42 stats" /></a>
+<p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clailj1hk01110gl7wz4oh8bz/stats?cursusId=21&coalitionId=274" alt="ctrivino's 42 stats" /></a><p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/cristinaetrivi/](https://www.linkedin.com/in/cristinaetrivi/)</p>
+<p align="center">- 📄 Know about my experiences [https://www.linkedin.com/in/cristinaetrivi/](https://www.linkedin.com/in/cristinaetrivi/)</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
